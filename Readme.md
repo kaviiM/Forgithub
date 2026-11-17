@@ -18,3 +18,5 @@ This is my sample project to learn Git and 【entity-GitHub¦canonical_name=GitH
 1. Download this project
 2. Open `index.html` in browser
 3. Click the button to see magic!
+
+##this is extra of bug
