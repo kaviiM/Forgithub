@@ -19,4 +19,7 @@ This is my sample project to learn Git and 【entity-GitHub¦canonical_name=GitH
 2. Open `index.html` in browser
 3. Click the button to see magic!
 
+
+##this is  from feature2 extra
 ##this is extra of bug
+##this is from feature extra

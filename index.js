@@ -20,4 +20,8 @@ function welcomeUser(name) {
     return `Welcome ${name}! Happy Learning Git!`;
 }
 
+<<<<<<< HEAD
 console.log(welcomeUser("Vishnu again"));
+=======
+console.log(welcomeUser("Vishnu varatha da"));
+>>>>>>> main
